@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696038298 source:c:\users\usuario\desktop\tp2 estructuras estaticas y dinamicas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

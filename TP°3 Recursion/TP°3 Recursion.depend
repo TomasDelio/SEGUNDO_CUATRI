@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696110314 source:c:\users\usuario\desktop\tp°3 recursion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
