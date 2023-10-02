@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696286381 source:c:\users\usuario\desktop\practicar nodos simples y dobles\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
