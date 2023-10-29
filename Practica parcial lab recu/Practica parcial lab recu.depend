@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698521481 source:c:\users\tomas\desktop\practica parcial lab recu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1698619846 source:c:\users\usuario\desktop\practica parcial lab recu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
