@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1699816247 source:c:\users\usuario\desktop\simulacro de parcial\main.c
-	<stdio.h>
-	<stdlib.h>
-	"string.h"
-
