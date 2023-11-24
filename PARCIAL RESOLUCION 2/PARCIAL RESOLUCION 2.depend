@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700776333 source:c:\users\usuario\desktop\parcial resolucion 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
